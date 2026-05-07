@@ -52,7 +52,7 @@ const getUserInfo = (user: Person) => {
   }
 };
 
-const student1 = new Student("Mr. tudent");
+const student1 = new Student("Mr. student");
 const teacher1 = new Teacher("Mr. teacher");
 const person1 = new Person("Mr. Person");
 
