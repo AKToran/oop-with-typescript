@@ -1,0 +1,1 @@
+// node --experimental-transform-types ./src/classObject.ts
